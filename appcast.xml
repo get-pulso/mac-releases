@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Pulso</title>
+        <item>
+            <title>0.0.1</title>
+            <pubDate>Wed, 21 May 2025 22:33:00 +0300</pubDate>
+            <link>https://github.com/get-pulso/mac/releases/tag/0.0.1</link>
+            <sparkle:releaseNotesLink>https://github.com/get-pulso/mac-releases/notes.html</sparkle:releaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/get-pulso/mac/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>0.0.1</sparkle:version>
+            <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure 
+               url="https://github.com/get-pulso/mac/releases/download/0.0.1/0.0.1.zip"
+               sparkle:edSignature="8Wo862QOZNHlpbcbiuFh/SblDdIVXAGzJ+XqcatNBNBMyR75l5onIblkyBfPCXITSoEItEZiY4UDGcAVH4E6Dg==" length="13089327"
+               type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
