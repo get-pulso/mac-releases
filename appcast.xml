@@ -4,7 +4,7 @@
         <title>Pulso</title>
         <item>
             <title>0.0.2</title>
-            <pubDate>Fri, 23 May 2025 22:50:15 +0300</pubDate>
+            <pubDate>Wed, 28 May 2025 21:51:11 +0300</pubDate>
             <link>https://github.com/get-pulso/mac/releases/tag/0.0.2</link>
             <sparkle:releaseNotesLink>https://github.com/get-pulso/mac-releases/notes.html</sparkle:releaseNotesLink>
             <sparkle:fullReleaseNotesLink>https://github.com/get-pulso/mac/releases</sparkle:fullReleaseNotesLink>
@@ -13,7 +13,7 @@
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure 
                url="https://github.com/get-pulso/mac/releases/download/0.0.2/0.0.2.zip"
-               sparkle:edSignature="C/zBJjc5bZ03QZwcWxiVtp0MLK6jmB6MNMD8jO0bNhm2Btk7aIEEqGz+8CILcq1Yjnqk/KnLYJufChMQGytxDQ==" length="13086633"
+               sparkle:edSignature="b82k4nI62Pl6sET5Tx1BKjPUSfE6QYCzA+FdzZJfxdSk0wKlTCAUx4wdV8kguX/OOugte1ScIkekFTfYaiMPBQ==" length="13113862"
 
                type="application/octet-stream"/>
         </item>
