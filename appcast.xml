@@ -3,17 +3,17 @@
     <channel>
         <title>Pulso</title>
         <item>
-            <title>0.0.2</title>
-            <pubDate>Thu, 12 Jun 2025 19:17:05 +0300</pubDate>
-            <link>https://github.com/get-pulso/mac/releases/tag/0.0.2</link>
+            <title>0.0.3</title>
+            <pubDate>Mon, 16 Jun 2025 10:51:56 +0300</pubDate>
+            <link>https://github.com/get-pulso/mac/releases/tag/0.0.3</link>
             <sparkle:releaseNotesLink>https://github.com/get-pulso/mac-releases/notes.html</sparkle:releaseNotesLink>
             <sparkle:fullReleaseNotesLink>https://github.com/get-pulso/mac/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.0.2</sparkle:shortVersionString>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure 
-               url="https://github.com/get-pulso/mac/releases/download/0.0.2/0.0.2.zip"
-               sparkle:edSignature="V9h3aSixvhtnUqqTIMX2A0MY9bj9F2AokmoLTvneab/rPTv4EeZgmvRPDn0qfmiWq5mTu8r+/Rxsj9hgvG+0BA==" length="13701558"
+               url="https://github.com/get-pulso/mac/releases/download/0.0.3/0.0.3.zip"
+               sparkle:edSignature="rcotmReX+s/NK03U9/fm/dygiOnQvqJUCBM954VnvWHR3L5qw3xG0ozigRxkBpkwVrhxDX8C9xIR5XF/h6RYCA==" length="14538754"
 
                type="application/octet-stream"/>
         </item>
