@@ -3,6 +3,18 @@
     <channel>
         <title>Firstlight</title>
         <item>
+            <title>0.2.1</title>
+            <pubDate>Thu, 17 Sep 2026 09:41:31 -0700</pubDate>
+            <link>https://github.com/get-pulso/mac/releases/tag/0.2.1</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/get-pulso/mac/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Maintenance release with a newly signed and notarized update package.
+]]></description>
+            <enclosure url="https://github.com/get-pulso/mac/releases/download/0.2.1/0.2.1.zip" length="34423133" type="application/octet-stream" sparkle:edSignature="2NOBtyOpf7e8t7NQzHbeWVgpW+BWtfBJo7IDzyhs5QlI9PvjCIccbrl9wxyKJ+O1WBxQ2LWwC64k8IQ0x8lwDg=="/>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Wed, 16 Sep 2026 22:20:01 -0700</pubDate>
             <link>https://github.com/get-pulso/mac/releases/tag/0.2.0</link>
