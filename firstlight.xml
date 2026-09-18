@@ -5,8 +5,8 @@
         <item>
             <title>0.2.2</title>
             <pubDate>Thu, 17 Sep 2026 14:54:32 -0700</pubDate>
-            <link>https://github.com/get-pulso/mac/releases/tag/0.2.2</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/get-pulso/mac/releases</sparkle:fullReleaseNotesLink>
+            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.2</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
             <sparkle:version>11</sparkle:version>
             <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
@@ -14,38 +14,7 @@
 
 Also in this version: the Agents screen with cost, streak and records; group invitations a friend can accept or decline; the day drawn as half-hour columns by tool; a handshake when a friend joins.
 ]]></description>
-            <enclosure url="https://github.com/get-pulso/mac/releases/download/0.2.2/0.2.2.zip" length="36670335" type="application/octet-stream" sparkle:edSignature="ky3XHq1R3COCmRFzfcJ5vxE1EBqtCmrEun6xcL94gE/PrkhrWDc2VHtWDXBhRglBOQbuOgTGCyRGLabv97edBA=="/>
-        </item>
-        <item>
-            <title>0.2.1</title>
-            <pubDate>Thu, 17 Sep 2026 09:41:31 -0700</pubDate>
-            <link>https://github.com/get-pulso/mac/releases/tag/0.2.1</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/get-pulso/mac/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Maintenance release with a newly signed and notarized update package.
-]]></description>
-            <enclosure url="https://github.com/get-pulso/mac/releases/download/0.2.1/0.2.1.zip" length="34423133" type="application/octet-stream" sparkle:edSignature="2NOBtyOpf7e8t7NQzHbeWVgpW+BWtfBJo7IDzyhs5QlI9PvjCIccbrl9wxyKJ+O1WBxQ2LWwC64k8IQ0x8lwDg=="/>
-        </item>
-        <item>
-            <title>0.2.0</title>
-            <pubDate>Wed, 16 Sep 2026 22:20:01 -0700</pubDate>
-            <link>https://github.com/get-pulso/mac/releases/tag/0.2.0</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/get-pulso/mac/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Pulso is now Firstlight.
-
-- See when friends are at their computers and how their day went.
-- Groups with invite links, friend requests and bumps.
-- Choose what you share: apps and agent time, in detail, as a total, or not at all.
-- Updates install on their own.
-
-Your Pulso account still works: sign in with the same Google account. Activity and friends from Pulso are not carried over.
-]]></description>
-            <enclosure url="https://github.com/get-pulso/mac/releases/download/0.2.0/0.2.0.zip" length="34423068" type="application/octet-stream" sparkle:edSignature="+3DkwigNAddZDejh9WnzHQmeSywYKEXuV243wS+lb1xrbXP1prNsNMimBpQGbQDgaug3cv6Uj2LiwLA293fSCQ=="/>
+            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.2/0.2.2.zip" length="36670335" type="application/octet-stream" sparkle:edSignature="ky3XHq1R3COCmRFzfcJ5vxE1EBqtCmrEun6xcL94gE/PrkhrWDc2VHtWDXBhRglBOQbuOgTGCyRGLabv97edBA=="/>
         </item>
     </channel>
 </rss>
