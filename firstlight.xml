@@ -3,48 +3,56 @@
     <channel>
         <title>Firstlight</title>
         <item>
-            <title>0.2.17</title>
-            <pubDate>Mon, 21 Sep 2026 16:04:11 -0700</pubDate>
-            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.17</link>
+            <title>0.2.24</title>
+            <pubDate>Sat, 26 Sep 2026 13:13:49 -0700</pubDate>
+            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.24</link>
             <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>0.2.17</sparkle:shortVersionString>
+            <sparkle:version>33</sparkle:version>
+            <sparkle:shortVersionString>0.2.24</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[New accounts now begin without automatic contacts and open on the Leaderboard until you add someone.
-Existing connections remain intact.
+            <description sparkle:format="plain-text"><![CDATA[Agent activity uses less disk
+
+IMPROVED
+Firstlight now groups agent activity scans and avoids saving unchanged scan state. This reduces disk writes during long agent sessions.
 ]]></description>
-            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.17/Firstlight-0.2.17.zip" length="43387582" type="application/octet-stream" sparkle:edSignature="aBV7pkfVemW0PLHqNV9zYAhdyjGmE7q37HDKEOzRQnrFlY3zUaHl3mtfKmTIOIL6uM1E+kMb1X6zjTxlzb2FDA=="/>
+            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.24/Firstlight-0.2.24.zip" length="45732089" type="application/octet-stream" sparkle:edSignature="aAa0ZVvVBSjdf95aMZhtdCPFhodESyMjVsRVIsbqORUnv1ixzD01Noah/9YoBApo7w+LOcZfXyA1ykftqLrTCw=="/>
         </item>
         <item>
-            <title>0.2.16</title>
-            <pubDate>Mon, 21 Sep 2026 15:51:09 -0700</pubDate>
-            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.16</link>
+            <title>0.2.23</title>
+            <pubDate>Fri, 25 Sep 2026 09:43:12 -0700</pubDate>
+            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.23</link>
             <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>0.2.16</sparkle:shortVersionString>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>0.2.23</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[New menu-bar controls let you choose whether friends appear there and set a maximum from one to five.
-Improves refresh feedback and keeps the day tray open while data updates.
-The onboarding transition no longer exposes the desktop between windows, and buttons now respond consistently on hover.
-Improves local recording preparation and removes unused Settings and status code.
+            <description sparkle:format="plain-text"><![CDATA[Agents on every Mac add up
+
+FIXED
+Agents running on two Macs signed in to the same account now add up instead of one Mac's count replacing the other's. Install Firstlight on the Mac where your agents run and both show on your profile.
+
+IMPROVED
+Settings no longer offers a public page before you have a username; it takes you to pick one first.
 ]]></description>
-            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.16/Firstlight-0.2.16.zip" length="43385040" type="application/octet-stream" sparkle:edSignature="U1jWY6/dcZrGJeyzzeYu6WZUQzmDeDonWbuGhbskI7GfsVrGasmaM5bAssB0c47Wv9kla9bQLYlPbVFchCHOBw=="/>
+            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.23/Firstlight-0.2.23.zip" length="44220437" type="application/octet-stream" sparkle:edSignature="A3J5JzKvCfXymOLVRJLS/ewS1NXlGZZTIG3gqBkGcy+xUDInI2gM680hDS0/PYloPPNZrKr6r3TTDiQtvXFcAw=="/>
         </item>
         <item>
-            <title>0.2.15</title>
-            <pubDate>Mon, 21 Sep 2026 14:12:33 -0700</pubDate>
-            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.15</link>
+            <title>0.2.22</title>
+            <pubDate>Tue, 22 Sep 2026 18:38:58 -0700</pubDate>
+            <link>https://github.com/serafimcloud/firstlight-releases/releases/tag/0.2.22</link>
             <sparkle:fullReleaseNotesLink>https://github.com/serafimcloud/firstlight-releases/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>0.2.15</sparkle:shortVersionString>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>0.2.22</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Group invitations now have their own tab, showing who invited you and who is already in the group. Join and Decline update immediately, and invitations are available from both the dashboard and Settings.
+            <description sparkle:format="plain-text"><![CDATA[Declining a friend request stays between you
 
-The menu bar fits the friends it shows, keeps selection aligned around their avatars, and avoids hover highlights while scrolling.
+CHANGED
+Declining a friend request no longer tells the person who sent it: on their side it still reads as sent, and on their profile you can still accept it.
+Adding back someone whose request you declined makes you friends at once.
 
-Improves accessibility for friend codes, keeps cities readable beside long names, and makes profile and tray interactions more stable.
+IMPROVED
+On a profile with nothing under the name, hovering the app or agents badge slides the profile down instead of making it jump.
 ]]></description>
-            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.15/Firstlight-0.2.15.zip" length="43168600" type="application/octet-stream" sparkle:edSignature="xkF3s4Hd6BFSKC9DgbI0kvIVhQ+f3laUANB8mzN/Pkpo1xbR1IsgL5jogEcnFDfLE3rVe5P8ufGqNHGu4McZBA=="/>
+            <enclosure url="https://github.com/serafimcloud/firstlight-releases/releases/download/0.2.22/Firstlight-0.2.22.zip" length="44215463" type="application/octet-stream" sparkle:edSignature="RxPvIKhCEVLmOgdo8VnhLcDuUCNtUFFBrf59q6P7v9JZrpu+/mg2qr3VpOdzwZ+9J4cFA2x70Bc8VYofqJxKAw=="/>
         </item>
     </channel>
 </rss>
